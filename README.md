@@ -1,2 +1,2 @@
-# Aether-One
+# Aether
 Aether: Aligning Your Academic Universe
